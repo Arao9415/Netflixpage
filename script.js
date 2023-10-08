@@ -8,4 +8,4 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
-// You can add more JavaScript functionality as needed.
+
